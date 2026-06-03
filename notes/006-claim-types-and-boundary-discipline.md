@@ -1,12 +1,12 @@
-# Claim Types and Boundary Discipline in Thalean Relational Theory
+# Claim Types and Boundary Discipline in Thalean Action Theory
 
 Status: working discipline note
 Date: 2026-06-01
-Scope: proof-status boundaries, claim typing, and responsible presentation for TRT
+Scope: proof-status boundaries, claim typing, and responsible presentation for TAT
 
 ## 1. Purpose
 
-Thalean Relational Theory is intentionally broad.
+Thalean Action Theory is intentionally broad.
 
 It includes philosophical framing, finite graph theory, modal logic, computational experiments, public essays, witness artifacts, speculative bridges, and physical analogies.
 
@@ -16,7 +16,7 @@ different kinds of claims can be accidentally blurred.
 
 This note exists to prevent that.
 
-TRT should remain ambitious without becoming careless. The way to do that is to separate claim types, name proof status clearly, and keep every branch tied to its proper witness discipline.
+TAT should remain ambitious without becoming careless. The way to do that is to separate claim types, name proof status clearly, and keep every branch tied to its proper witness discipline.
 
 Core rule:
 
@@ -26,9 +26,9 @@ The Thalean label names the scope of the program. It does not make every stateme
 
 ## 2. Why boundary discipline matters
 
-TRT is built around boundary, frame, admissibility, and invariant.
+TAT is built around boundary, frame, admissibility, and invariant.
 
-That means TRT must practice what it teaches.
+That means TAT must practice what it teaches.
 
 A claim needs a boundary.
 
@@ -48,7 +48,7 @@ The goal is to make the theory accountable.
 
 ## 3. Core distinction
 
-Every TRT statement should be understood as belonging to at least one of the following claim types:
+Every TAT statement should be understood as belonging to at least one of the following claim types:
 
 1. Philosophical proposal
 2. Formal definition
@@ -220,7 +220,7 @@ It can become part of institutional method without pretending to be a formal law
 
 ## 11. Physical analogy
 
-A physical analogy compares a TRT structure to a physical process or concept.
+A physical analogy compares a TAT structure to a physical process or concept.
 
 Example:
 
@@ -260,7 +260,7 @@ It can support a model comparison or research question, but it should not overst
 
 ## 13. Speculative bridge
 
-A speculative bridge proposes that a TRT concept may illuminate another domain.
+A speculative bridge proposes that a TAT concept may illuminate another domain.
 
 Example:
 
@@ -306,7 +306,7 @@ A naming convention assigns a stable label to a concept, artifact, or object.
 
 Example:
 
-Thalean Relational Theory names the umbrella program.
+Thalean Action Theory names the umbrella program.
 Thalean Graph Theory names the graph-theoretic subprogram.
 Existential relativity names the philosophical thesis.
 Discrete Action Theory names the operational dynamics.
@@ -383,7 +383,7 @@ Historical framing provides orientation. It does not prove the theory.
 
 ## 19. Claim label system
 
-TRT notes should use explicit claim labels when helpful.
+TAT notes should use explicit claim labels when helpful.
 
 Suggested labels:
 
@@ -409,7 +409,7 @@ When in doubt, use the weaker label.
 
 ## 20. The ladder of strength
 
-TRT should treat claim strength as a ladder.
+TAT should treat claim strength as a ladder.
 
 A possible ladder:
 
@@ -438,9 +438,9 @@ A method may guide empirical work.
 
 But each transition must be earned.
 
-## 21. Boundary discipline for TRT and TGT
+## 21. Boundary discipline for TAT and TGT
 
-TRT is the umbrella.
+TAT is the umbrella.
 
 TGT is the mathematical graph core.
 
@@ -448,31 +448,31 @@ The relationship should be stated carefully.
 
 Allowed:
 
-TGT provides finite graph witnesses for TRT ideas.
+TGT provides finite graph witnesses for TAT ideas.
 
 Allowed:
 
-TRT supplies philosophical and methodological framing for TGT.
+TAT supplies philosophical and methodological framing for TGT.
 
 Not allowed:
 
-Because a TGT graph theorem holds, a TRT metaphysical thesis is proved.
+Because a TGT graph theorem holds, a TAT metaphysical thesis is proved.
 
 Not allowed:
 
-Because a TRT philosophical thesis is compelling, a TGT mathematical claim is established.
+Because a TAT philosophical thesis is compelling, a TGT mathematical claim is established.
 
 The bridge is productive, but the proof statuses are distinct.
 
 ## 22. Boundary discipline for physics bridges
 
-TRT may inspire physical analogies and research questions.
+TAT may inspire physical analogies and research questions.
 
 But physical claims require physical discipline.
 
 A physical bridge should specify:
 
-the TRT concept,
+the TAT concept,
 the physical concept,
 the proposed mapping,
 the forbidden mappings,
@@ -495,7 +495,7 @@ The phrase "this resembles" must not become "this explains."
 
 ## 23. Boundary discipline for AI and coherence work
 
-TRT connects naturally to AI coherence, local mimicry, and surface testing.
+TAT connects naturally to AI coherence, local mimicry, and surface testing.
 
 But AI claims also need type discipline.
 
@@ -545,7 +545,7 @@ Public writing can be poetic, but it should not erase claim type.
 
 ## 25. Minimum claim packet
 
-For serious TRT claims, use a minimum claim packet.
+For serious TAT claims, use a minimum claim packet.
 
 A claim packet should include:
 
@@ -586,7 +586,7 @@ Type:
 Philosophical proposal / formal framing.
 
 Frame:
-TRT relational-frame language.
+TAT relational-frame language.
 
 Boundary:
 Applies to epistemic interpretation, not clinical psychology by itself.
@@ -650,7 +650,7 @@ Invariant:
 Accountable structure should survive relevant transformations.
 
 Witness:
-Coherence-gap paper and TRT notes.
+Coherence-gap paper and TAT notes.
 
 Limit:
 Does not automatically characterize every AI or philosophical failure.
@@ -692,7 +692,7 @@ Boundary erasure.
 
 The reader cannot tell what is inside the claim and what is outside it.
 
-TRT should be designed to resist these failures.
+TAT should be designed to resist these failures.
 
 ## 28. Positive version
 
@@ -715,7 +715,7 @@ The work can be broad because the boundaries are explicit.
 
 ## 29. Summary
 
-Thalean Relational Theory requires claim discipline because it intentionally spans philosophy, mathematics, computation, public writing, and speculative bridgework.
+Thalean Action Theory requires claim discipline because it intentionally spans philosophy, mathematics, computation, public writing, and speculative bridgework.
 
 The rule is simple:
 

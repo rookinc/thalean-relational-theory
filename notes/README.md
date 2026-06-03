@@ -1,8 +1,8 @@
-# Thalean Relational Theory Notes
+# Thalean Action Theory Notes
 
-This directory contains working notes for Thalean Relational Theory.
+This directory contains working notes for Thalean Action Theory.
 
-Thalean Relational Theory, or TRT, is the umbrella research program studying how identity, meaning, action, and accountability arise through relational structure, admissible transformation, and invariants that survive changed frames.
+Thalean Action Theory, or TAT, is the umbrella research program studying how identity, meaning, action, and accountability arise through relational structure, admissible transformation, and invariants that survive changed frames.
 
 Core maxim:
 
@@ -14,15 +14,15 @@ A thing is what its relations make possible, and what its presence makes possibl
 
 ## Notes index
 
-### 001. Thalean Relational Theory Foundation
+### 001. Thalean Action Theory Foundation
 
 File:
 
-notes/001-thalean-relational-theory-foundation.md
+notes/001-thalean-thalean-action-theory-foundation.md
 
 Purpose:
 
-Introduces TRT as the umbrella framework for Thalean Graph Theory, existential relativity, discrete action theory, dynamic relational modal logic, and CoRI coherence methods.
+Introduces TAT as the umbrella framework for Thalean Graph Theory, existential relativity, discrete action theory, dynamic relational modal logic, and CoRI coherence methods.
 
 Best for:
 
@@ -36,7 +36,7 @@ notes/002-glossary.md
 
 Purpose:
 
-Defines the working vocabulary of TRT, including Thalean Relational Theory, Thalean Graph Theory, thalion, existential relativity, discrete action, admissibility, field effect, surface, witness, coherence gap, and dynamic relational modal logic.
+Defines the working vocabulary of TAT, including Thalean Action Theory, Thalean Graph Theory, thalion, existential relativity, discrete action, admissibility, field effect, surface, witness, coherence gap, and dynamic relational modal logic.
 
 Best for:
 
@@ -50,11 +50,11 @@ notes/003-logic-stack.md
 
 Purpose:
 
-Builds the formal architecture for TRT using graph structure, modal logic, typed modal logic, temporal logic, dynamic logic, admissibility logic, and update semantics.
+Builds the formal architecture for TAT using graph structure, modal logic, typed modal logic, temporal logic, dynamic logic, admissibility logic, and update semantics.
 
 Best for:
 
-Understanding how TRT could become a formal language rather than only a philosophical frame.
+Understanding how TAT could become a formal language rather than only a philosophical frame.
 
 ### 004. Positioning
 
@@ -64,11 +64,11 @@ notes/004-positioning.md
 
 Purpose:
 
-Places TRT near structuralism, semiotics, pragmatism, process philosophy, relational ontology, structural realism, systems theory, cybernetics, actor-network theory, category-theoretic structural thinking, modal logic, dynamic logic, and graph transformation theory.
+Places TAT near structuralism, semiotics, pragmatism, process philosophy, relational ontology, structural realism, systems theory, cybernetics, actor-network theory, category-theoretic structural thinking, modal logic, dynamic logic, and graph transformation theory.
 
 Best for:
 
-Explaining what TRT is adjacent to and what makes it distinct.
+Explaining what TAT is adjacent to and what makes it distinct.
 
 ### 005. Subjective, Objective, and Boundary Before Body
 
@@ -82,7 +82,7 @@ Frames subjectivity as frame-local witness, objectivity as frame-crossing invari
 
 Best for:
 
-Developing the epistemic and ontological side of TRT.
+Developing the epistemic and ontological side of TAT.
 
 ### 006. Claim Types and Boundary Discipline
 
@@ -109,7 +109,7 @@ Preventing overclaiming and keeping proof status explicit across the whole proje
 
 ## Current theory spine
 
-TRT currently has six anchors:
+TAT currently has six anchors:
 
 1. Foundation
 2. Vocabulary
@@ -118,8 +118,8 @@ TRT currently has six anchors:
 5. Subjective/objective/boundary doctrine
 6. Claim discipline
 
-Together they establish the first working spine of the relational-theory repo.
+Together they establish the first working spine of the thalean-action-theory repo.
 
 ## Public one-paragraph summary
 
-Thalean Relational Theory is a relational-action framework. It studies how identity, meaning, action, and accountability arise through relational structure, admissible transformation, and invariants that survive changed frames. Its central thesis is that identity is not isolated substance, but relational invariance under admissible change. Its active thesis is that a thing is what its relations make possible, and what its presence makes possible for others.
+Thalean Action Theory is a relational-action framework. It studies how identity, meaning, action, and accountability arise through relational structure, admissible transformation, and invariants that survive changed frames. Its central thesis is that identity is not isolated substance, but relational invariance under admissible change. Its active thesis is that a thing is what its relations make possible, and what its presence makes possible for others.

@@ -2,14 +2,14 @@
 
 Status: working theory note
 Date: 2026-06-01
-Scope: TRT framing for subjectivity, objectivity, boundary, and bodyhood
+Scope: TAT framing for subjectivity, objectivity, boundary, and bodyhood
 
 ## 1. Purpose
 
-This note records a Thalean Relational Theory position on two linked questions:
+This note records a Thalean Action Theory position on two linked questions:
 
-1. What does TRT say about the subjective and the objective?
-2. What does TRT mean by boundary before body?
+1. What does TAT say about the subjective and the objective?
+2. What does TAT mean by boundary before body?
 
 The central answer is:
 
@@ -21,7 +21,7 @@ This note should be read as a conceptual bridge between existential relativity, 
 
 ## 2. The subjective/objective distinction
 
-In TRT, the subjective and objective are not treated as enemies.
+In TAT, the subjective and objective are not treated as enemies.
 
 The subjective is not simply fake, private, irrational, or useless.
 
@@ -50,7 +50,7 @@ A subject sees from somewhere.
 
 That somewhere is not an error. It is part of the data.
 
-TRT therefore treats subjective experience as situated witness.
+TAT therefore treats subjective experience as situated witness.
 
 A subjective report says:
 
@@ -71,7 +71,7 @@ X is globally invariant across all relevant frames.
 The first is a frame-local witness claim.
 The second is an objectivity claim.
 
-TRT preserves this distinction without humiliating the subjective.
+TAT preserves this distinction without humiliating the subjective.
 
 ## 4. Objectivity as disciplined translation
 
@@ -98,7 +98,7 @@ and loss of decorative context.
 
 Objectivity is therefore multi-frame accountability.
 
-In TRT language:
+In TAT language:
 
 Objectivity is stable transport across relational frames.
 
@@ -116,7 +116,7 @@ This is a major distinction.
 
 A naive objectivism may want truth without frame.
 
-TRT asks for truth that survives frame-change.
+TAT asks for truth that survives frame-change.
 
 The question is not:
 
@@ -128,7 +128,7 @@ What remains accountable across disciplined changes of perspective?
 
 ## 6. Boundary before body
 
-Boundary before body is a foundational TRT phrase.
+Boundary before body is a foundational TAT phrase.
 
 A body does not appear first as pure substance.
 
@@ -164,7 +164,7 @@ what counts as noise,
 what actions are admissible,
 and what exchanges are allowed.
 
-In TRT language:
+In TAT language:
 
 A boundary is an admissibility surface.
 
@@ -208,7 +208,7 @@ The boundary may be biological, cognitive, social, linguistic, instrumental, for
 
 A subjective report is generated from within a boundary.
 
-So TRT says:
+So TAT says:
 
 The subjective is the view from within a boundary.
 
@@ -240,7 +240,7 @@ If the boundary is "formal graph invariant," then the claim must survive relabel
 
 If the boundary is "physical model," then the claim must survive measurement, prediction, and empirical constraint.
 
-Therefore TRT does not first ask:
+Therefore TAT does not first ask:
 
 Is this subjective or objective?
 
@@ -290,7 +290,7 @@ available actions,
 interpretive frames,
 and global coherence.
 
-This gives the active TRT formulation:
+This gives the active TAT formulation:
 
 A thing is what its relations make possible, and what its presence makes possible for others.
 
@@ -302,7 +302,7 @@ Identity is preserved or lost through the exchange.
 
 ## 13. Subjective witness and objective witness
 
-Within TRT, it is useful to distinguish subjective witness and objective witness.
+Within TAT, it is useful to distinguish subjective witness and objective witness.
 
 A subjective witness is a trace from within a boundary.
 
@@ -326,7 +326,7 @@ Subjective surfaces can be locally real without being globally stable.
 
 Objective structure requires survival across frame-change.
 
-In TRT language:
+In TAT language:
 
 A coherence gap is a failure of frame-local appearance to become frame-crossing invariant.
 
@@ -363,7 +363,7 @@ Subjectivity is frame-local witness. Objectivity is frame-crossing invariance. B
 
 Medium:
 
-TRT does not treat the subjective as fake or the objective as view-from-nowhere. A subjective claim is a witness from inside a boundary. An objective claim is one that survives disciplined movement across boundaries and frames. Bodyhood begins when a boundary makes relational persistence possible.
+TAT does not treat the subjective as fake or the objective as view-from-nowhere. A subjective claim is a witness from inside a boundary. An objective claim is one that survives disciplined movement across boundaries and frames. Bodyhood begins when a boundary makes relational persistence possible.
 
 Strong:
 
@@ -391,7 +391,7 @@ A body is what remains coherent through boundary-preserving transformation.
 
 ## 18. Summary
 
-TRT reframes the subjective/objective divide as a question of frame and invariant.
+TAT reframes the subjective/objective divide as a question of frame and invariant.
 
 The subjective is frame-local witness.
 

@@ -1,4 +1,4 @@
-# Logic Stack for Thalean Relational Theory
+# Logic Stack for Thalean Action Theory
 
 Status: working theory note
 Date: 2026-06-01
@@ -6,7 +6,7 @@ Scope: formal stack for existential relativity, discrete action theory, admissib
 
 ## 1. Purpose
 
-This note builds the logic stack for Thalean Relational Theory.
+This note builds the logic stack for Thalean Action Theory.
 
 The foundation note defines the umbrella. The glossary stabilizes the vocabulary. This note begins the formal architecture.
 
@@ -18,7 +18,7 @@ A second thesis completes the active loop:
 
 A thing is what its relations make possible, and what its presence makes possible for others.
 
-Together, these require more than ordinary graph language and more than ordinary modal logic. TRT needs a layered logic stack that can speak about:
+Together, these require more than ordinary graph language and more than ordinary modal logic. TAT needs a layered logic stack that can speak about:
 
 relations,
 frames,
@@ -65,7 +65,7 @@ Update semantics allows actions to change the relational frame itself.
 
 The result is not yet a single finished calculus. It is a design target:
 
-Thalean Relational Theory wants typed dynamic modal logic over updateable relational frames.
+Thalean Action Theory wants typed dynamic modal logic over updateable relational frames.
 
 ## 3. Layer 0: relational graph base
 
@@ -131,7 +131,7 @@ M = (W, R, V)
 
 where V assigns propositions to worlds.
 
-TRT reads this graph-theoretically:
+TAT reads this graph-theoretically:
 
 W is a set of possible relational positions or states.
 R says which positions are accessible from which others.
@@ -152,11 +152,11 @@ In graph language:
 <>p means p holds somewhere reachable by the relevant relation.
 []p means p holds everywhere reachable by the relevant relation.
 
-This gives TRT a first formal expression of frame-relative truth.
+This gives TAT a first formal expression of frame-relative truth.
 
 A proposition is not evaluated in isolation. It is evaluated at a world, state, vertex, or frame-position.
 
-Informal TRT reading:
+Informal TAT reading:
 
 Meaning is not free-floating. It is evaluated from somewhere inside a relational frame.
 
@@ -164,7 +164,7 @@ Meaning is not free-floating. It is evaluated from somewhere inside a relational
 
 One accessibility relation is too blunt.
 
-TRT needs different relation types.
+TAT needs different relation types.
 
 For example:
 
@@ -207,7 +207,7 @@ It may be visible in a quotient but not faithful to the full object.
 
 Typed relations prevent false equivalence.
 
-Core TRT rule:
+Core TAT rule:
 
 Do not collapse distinct relation types unless the collapse itself is justified.
 
@@ -229,7 +229,7 @@ F p
 G p
 p U q
 
-TRT needs temporal language because identity is not merely a snapshot.
+TAT needs temporal language because identity is not merely a snapshot.
 
 Identity is coherence through transformation.
 
@@ -246,7 +246,7 @@ What returns after a cycle?
 
 In TGT language, this connects naturally to walks, cycles, transport, recurrence, quotient traces, and sign-closing versus identity-closing behavior.
 
-Informal TRT reading:
+Informal TAT reading:
 
 A thing is not only what it is at one moment. It is what remains legible through ordered change.
 
@@ -266,7 +266,7 @@ ASCII notation:
 <a>p
 [a]p
 
-TRT reading:
+TAT reading:
 
 <a>p means action a can bring about p.
 [a]p means action a necessarily preserves or produces p.
@@ -298,7 +298,7 @@ This still needs admissibility. Not every action should count. That leads to the
 
 ## 8. Layer 5: admissibility logic
 
-TRT does not care about arbitrary mutation as a test of identity.
+TAT does not care about arbitrary mutation as a test of identity.
 
 It cares about lawful transformation.
 
@@ -329,7 +329,7 @@ Without admissibility, any structure can be destroyed by arbitrary mutation. Tha
 
 Admissibility separates meaningful transformation from noise.
 
-Core TRT rule:
+Core TAT rule:
 
 Only admissible transformations count as lawful tests of identity.
 
@@ -337,7 +337,7 @@ Only admissible transformations count as lawful tests of identity.
 
 The previous layers can still be read as movement inside a fixed frame.
 
-But TRT also requires field effect.
+But TAT also requires field effect.
 
 A thing is shaped by its relations, but it also changes the relational field around it.
 
@@ -381,7 +381,7 @@ What action is admissible from here, what does it preserve, and how does it chan
 
 This is the key formal move.
 
-TRT cannot be fully captured by static modal logic alone. It needs dynamic update semantics over relational frames.
+TAT cannot be fully captured by static modal logic alone. It needs dynamic update semantics over relational frames.
 
 ## 10. Field signature
 
@@ -501,7 +501,7 @@ the transformation family,
 the trace map,
 and the invariant or failure.
 
-A minimal TRT claim form:
+A minimal TAT claim form:
 
 In frame S, entity x has property P as an existential invariant under admissible action family A, witnessed by trace rule tau and verification artifact W.
 
@@ -544,7 +544,7 @@ But after a lawful frame update a: S -> S', the surface may lose its trace, brea
 
 A coherence gap occurs when local appearance and global relational accountability diverge.
 
-TRT interpretation:
+TAT interpretation:
 
 A coherence gap is a failure of existential invariance across the relevant admissible transformations of a relational frame.
 
@@ -574,7 +574,7 @@ Which relational identities survive admissible compression, transport, projectio
 
 ## 16. Minimal formal package
 
-A working TRT model should eventually specify:
+A working TAT model should eventually specify:
 
 S = (W, R, L, A, Adm)
 
@@ -586,7 +586,7 @@ L is a labeling or valuation structure.
 A is a set of actions.
 Adm is an admissibility predicate.
 
-A dynamic TRT model should allow:
+A dynamic TAT model should allow:
 
 a: S -> S'
 
@@ -649,7 +649,7 @@ Open problems:
 
 1. Choose the minimal notation that remains readable.
 
-2. Decide whether TRT needs a custom calculus or can be expressed as a disciplined combination of existing dynamic modal, temporal, and graph-transformation logics.
+2. Decide whether TAT needs a custom calculus or can be expressed as a disciplined combination of existing dynamic modal, temporal, and graph-transformation logics.
 
 3. Define trace maps rigorously enough for graph quotients and projections.
 
@@ -665,7 +665,7 @@ Open problems:
 
 ## 19. Summary
 
-Thalean Relational Theory needs a logic stack because its central claims involve identity, relation, action, and field effect.
+Thalean Action Theory needs a logic stack because its central claims involve identity, relation, action, and field effect.
 
 Static graph theory gives relation.
 

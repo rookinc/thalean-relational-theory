@@ -1,18 +1,18 @@
-# Thalean Relational Theory Glossary
+# Thalean Action Theory Glossary
 
 Status: working glossary
 Date: 2026-06-01
-Scope: stable vocabulary for the relational-theory repo
+Scope: stable vocabulary for the thalean-action-theory repo
 
 ## Purpose
 
-This glossary collects the core terms used in Thalean Relational Theory.
+This glossary collects the core terms used in Thalean Action Theory.
 
 The goal is not to freeze every definition permanently. The goal is to make the current working vocabulary explicit enough that future notes, papers, code, and public explanations can use terms consistently.
 
-## Thalean Relational Theory
+## Thalean Action Theory
 
-Thalean Relational Theory, or TRT, is the umbrella research program studying how identity, meaning, action, and accountability arise through relational structure, admissible transformation, and invariants that survive changed frames.
+Thalean Action Theory, or TAT, is the umbrella research program studying how identity, meaning, action, and accountability arise through relational structure, admissible transformation, and invariants that survive changed frames.
 
 Core maxim:
 
@@ -24,7 +24,7 @@ A thing is what its relations make possible, and what its presence makes possibl
 
 ## Thalean Graph Theory
 
-Thalean Graph Theory, or TGT, is the mathematical graph-theoretic core inside Thalean Relational Theory.
+Thalean Graph Theory, or TGT, is the mathematical graph-theoretic core inside Thalean Action Theory.
 
 TGT studies finite relational structures whose vertices, edges, sectors, quotients, incidence laws, transport patterns, and invariants can be made explicit and tested.
 
@@ -56,7 +56,7 @@ The G15 sector system, matrix M, quadratic Q, and cubic law are downstream quoti
 
 A relation is a structured connection, constraint, incidence, accessibility, adjacency, dependency, or transformation rule between elements.
 
-In TRT, relations are not merely decorative links between already complete things. Relations may help constitute what a thing is, what it can do, how it can be interpreted, and how it changes the surrounding field.
+In TAT, relations are not merely decorative links between already complete things. Relations may help constitute what a thing is, what it can do, how it can be interpreted, and how it changes the surrounding field.
 
 ## Relational frame
 
@@ -78,7 +78,7 @@ and invariants.
 
 Identity is the recognizable structure of a thing across relevant frames and transformations.
 
-In TRT, identity is not treated as isolated substance first. Identity is treated as a relational invariant under admissible change.
+In TAT, identity is not treated as isolated substance first. Identity is treated as a relational invariant under admissible change.
 
 This means an entity is understood by:
 
@@ -89,7 +89,7 @@ and the changes it induces around itself.
 
 ## Existential relativity
 
-Existential relativity is the philosophical thesis inside TRT.
+Existential relativity is the philosophical thesis inside TAT.
 
 Working definition:
 
@@ -101,7 +101,7 @@ Existential relativity is not lazy relativism. It does not say anything can mean
 
 ## Discrete Action Theory
 
-Discrete Action Theory is the operational dynamics inside TRT.
+Discrete Action Theory is the operational dynamics inside TAT.
 
 It studies lawful finite transformation inside relational structures.
 
@@ -128,7 +128,7 @@ In graph language, an action may be a move, traversal, update, activation, proje
 
 Admissibility is the rule or condition that determines whether an action is lawful within a given relational frame.
 
-Not every imaginable transformation is relevant to identity. TRT focuses on admissible transformations because those are the lawful tests of structure.
+Not every imaginable transformation is relevant to identity. TAT focuses on admissible transformations because those are the lawful tests of structure.
 
 Admissibility separates arbitrary mutation from meaningful action.
 
@@ -136,7 +136,7 @@ Admissibility separates arbitrary mutation from meaningful action.
 
 An invariant is a property, pattern, relation, or profile that remains stable under a specified family of transformations.
 
-In TRT, invariants are central because they distinguish accountable structure from local surface appearance.
+In TAT, invariants are central because they distinguish accountable structure from local surface appearance.
 
 A proposed identity becomes stronger when its defining features survive changed viewpoint, perturbation, relabeling, projection, or admissible transformation.
 
@@ -174,7 +174,7 @@ A witness is a concrete object, artifact, calculation, graph, table, program out
 
 A witness does not merely assert that something is true. It gives the reader or investigator something to check.
 
-In TRT, witnesses are part of accountability.
+In TAT, witnesses are part of accountability.
 
 ## Coherence gap
 
@@ -206,7 +206,7 @@ A shadow may be mathematically important and highly informative, but it should n
 
 ## Dynamic relational modal logic
 
-Dynamic relational modal logic is the candidate formal language for TRT.
+Dynamic relational modal logic is the candidate formal language for TAT.
 
 The phrase names a stack rather than a single finished calculus:
 
@@ -229,7 +229,7 @@ and how those actions change what becomes possible next.
 
 A modal frame is a set of worlds or states together with an accessibility relation.
 
-In TRT terms, a modal frame is graph-like. It gives a way to ask what is possible, necessary, reachable, or preserved from a given position.
+In TAT terms, a modal frame is graph-like. It gives a way to ask what is possible, necessary, reachable, or preserved from a given position.
 
 ## Accessibility relation
 
@@ -243,13 +243,13 @@ A typed relation is a relation whose kind matters.
 
 Not all relations should be collapsed into a generic edge. Adjacency, incidence, transport, memory, observation, projection, and admissible action may each need distinct relation types.
 
-Typed relations allow TRT to distinguish different kinds of relational dependence.
+Typed relations allow TAT to distinguish different kinds of relational dependence.
 
 ## Update semantics
 
 Update semantics studies how actions change not only propositions inside a frame, but the frame itself.
 
-This matters for TRT because field effect requires more than movement inside a fixed structure. Actions may change the accessibility relations, labels, admissibility rules, or available states around them.
+This matters for TAT because field effect requires more than movement inside a fixed structure. Actions may change the accessibility relations, labels, admissibility rules, or available states around them.
 
 ## CoRI
 
@@ -259,7 +259,7 @@ Its public thesis:
 
 CoRI studies how apparent patterns become accountable structures by testing whether they survive changed viewpoints, controlled perturbations, and traceable constraints.
 
-In TRT terms, CoRI supplies the discipline of witness, audit, and coherence testing.
+In TAT terms, CoRI supplies the discipline of witness, audit, and coherence testing.
 
 ## Accountability
 
@@ -285,7 +285,7 @@ Constraint-bearing context is context that changes what interpretations, actions
 
 It differs from decorative context, which may improve readability or presentation but does not materially constrain the structure.
 
-In TRT, constraint-bearing context is central because identity depends on relations that actually restrict or guide possibility.
+In TAT, constraint-bearing context is central because identity depends on relations that actually restrict or guide possibility.
 
 ## Decorative context
 

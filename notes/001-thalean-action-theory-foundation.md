@@ -1,4 +1,4 @@
-# Thalean Relational Theory
+# Thalean Action Theory
 
 ## A foundation note on identity, relation, and admissible action
 
@@ -8,7 +8,7 @@ Scope: umbrella framing for Thalean Graph Theory, existential relativity, discre
 
 ## 1. Working definition
 
-Thalean Relational Theory is the umbrella name for a research program studying how identity, meaning, action, and accountability arise through relational structure.
+Thalean Action Theory is the umbrella name for a research program studying how identity, meaning, action, and accountability arise through relational structure.
 
 Its central thesis is:
 
@@ -16,7 +16,7 @@ Identity is not isolated substance. Identity is relational invariance under admi
 
 This does not mean that identity is arbitrary or that anything can mean anything. It means the opposite. Relations constrain. Actions leave traces. Transformations reveal which appearances are merely local surfaces and which structures remain accountable across changed viewpoints.
 
-Thalean Relational Theory asks:
+Thalean Action Theory asks:
 
 What relations make a thing legible?
 What actions does the thing admit?
@@ -39,11 +39,11 @@ In this project, "Thalean" names a similar move.
 
 The goal is not to replace inherited traditions, philosophical vocabularies, scientific models, or mathematical disciplines. The goal is to ask what survives translation into relational structure, admissible action, and invariant test.
 
-The label also gives the reader a clear scope. Thalean Relational Theory is the whole body of work. Thalean Graph Theory is the graph-mathematical core within it.
+The label also gives the reader a clear scope. Thalean Action Theory is the whole body of work. Thalean Graph Theory is the graph-mathematical core within it.
 
 ## 3. Relationship to Thalean Graph Theory
 
-Thalean Graph Theory is the mathematical subprogram of Thalean Relational Theory.
+Thalean Graph Theory is the mathematical subprogram of Thalean Action Theory.
 
 TGT studies finite relational structures, especially graph objects whose vertices, edges, sectors, quotients, incidence laws, and transport patterns can be inspected as accountable structures.
 
@@ -51,15 +51,15 @@ A graph, at its most basic level, is a labeled set of relationships.
 
 A vertex is not merely a dot. It is a relational position. Its identity depends on what it touches, what it does not touch, what paths pass through it, what symmetries preserve it, what labels bind it, what actions it admits, and what changes it induces around itself.
 
-In this sense, graph theory gives TRT a finite test bench.
+In this sense, graph theory gives TAT a finite test bench.
 
 Instead of speaking only in philosophical generalities, TGT asks whether a proposed identity, relation, transport, or coherence structure can be made explicit in a finite object.
 
-The Thalean graph, the thalion, the sector system, the G60 to G30 to G15 quotient stack, the incidence matrix, the quadratic shadow, and the coherence-gap tests are not the whole of TRT. They are concrete mathematical witnesses within the larger program.
+The Thalean graph, the thalion, the sector system, the G60 to G30 to G15 quotient stack, the incidence matrix, the quadratic shadow, and the coherence-gap tests are not the whole of TAT. They are concrete mathematical witnesses within the larger program.
 
 ## 4. Existential relativity
 
-Existential relativity is the philosophical thesis inside Thalean Relational Theory.
+Existential relativity is the philosophical thesis inside Thalean Action Theory.
 
 General relativity teaches that measurement depends on frame.
 
@@ -77,7 +77,7 @@ A pattern that only appears under one convenient viewpoint may be only a surface
 
 ## 5. Discrete action theory
 
-Discrete Action Theory is the operational dynamics inside Thalean Relational Theory.
+Discrete Action Theory is the operational dynamics inside Thalean Action Theory.
 
 If existential relativity says identity is relational, discrete action theory asks how relation becomes accountable through lawful transformation.
 
@@ -142,7 +142,7 @@ Another compact formulation:
 
 To exist is to occupy a relational position that both receives constraint and emits constraint.
 
-This is where TRT becomes more than passive relational ontology. It is not only about being constituted by relations. It is also about participating in the transformation of relation.
+This is where TAT becomes more than passive relational ontology. It is not only about being constituted by relations. It is also about participating in the transformation of relation.
 
 ## 7. Dynamic relational modal logic
 
@@ -155,7 +155,7 @@ plus a relation saying which states are accessible from which other states.
 
 That is close to graph thinking.
 
-However, ordinary modal logic is not enough for the full TRT stack, because TRT needs action and update.
+However, ordinary modal logic is not enough for the full TAT stack, because TAT needs action and update.
 
 The desired formal stack is:
 
@@ -178,19 +178,19 @@ What action is admissible from here, what does it preserve, and how does it chan
 
 This suggests the following formal slogan:
 
-Thalean Relational Theory wants typed dynamic modal logic over updateable relational frames.
+Thalean Action Theory wants typed dynamic modal logic over updateable relational frames.
 
 Or in more accessible language:
 
-TRT studies identity as the invariant trace of a relational position across admissible transformations, including transformations that change the relational field around it.
+TAT studies identity as the invariant trace of a relational position across admissible transformations, including transformations that change the relational field around it.
 
 ## 8. CoRI method
 
-The Center of Recursive Inquiry gives TRT its research ethic.
+The Center of Recursive Inquiry gives TAT its research ethic.
 
 CoRI studies how apparent patterns become accountable structures by testing whether they survive changed viewpoints, controlled perturbations, and traceable constraints.
 
-In TRT terms, CoRI is the method of witness discipline.
+In TAT terms, CoRI is the method of witness discipline.
 
 Do not protect the idea.
 Make the idea protect itself.
@@ -211,7 +211,7 @@ The goal is not to win an argument by vocabulary. The goal is to discover which 
 
 ## 9. Relation to existing philosophical families
 
-Thalean Relational Theory belongs near several existing philosophical traditions, but does not collapse into any one of them.
+Thalean Action Theory belongs near several existing philosophical traditions, but does not collapse into any one of them.
 
 It is near structuralism, because structuralism notices that meaning often comes from position within a system.
 
@@ -227,14 +227,14 @@ It is near structural realism, because what survives theory change may be relati
 
 Its differentiating move is the coupling of relation to admissible action and invariant test.
 
-TRT does not only say that things are relational.
+TAT does not only say that things are relational.
 
 It asks which relations are admissible, which actions preserve identity, which transformations expose structure, and which field effects change the possibility-space around other things.
 
 ## 10. Current internal stack
 
 Umbrella:
-Thalean Relational Theory
+Thalean Action Theory
 
 Mathematical core:
 Thalean Graph Theory
@@ -265,7 +265,7 @@ Do not protect the idea. Make the idea protect itself.
 
 ## 11. Boundary discipline
 
-TRT should not be presented as a completed theory of physics, mind, metaphysics, or mathematics.
+TAT should not be presented as a completed theory of physics, mind, metaphysics, or mathematics.
 
 It is currently a research program and framing architecture.
 
@@ -288,16 +288,16 @@ A sonoluminescence boundary-flux model is not the same kind of claim as a finite
 
 A public-facing metaphor is not the same kind of claim as a verified matrix identity.
 
-The point of TRT is not to blur these levels. The point is to place them under one accountable relational grammar.
+The point of TAT is not to blur these levels. The point is to place them under one accountable relational grammar.
 
 ## 12. Near-term next steps
 
-1. Keep this note as the root foundation note for TRT.
+1. Keep this note as the root foundation note for TAT.
 
-2. Add a short README at research/thalean-relational-theory/README.md.
+2. Add a short README at research/thalean-thalean-action-theory/README.md.
 
 3. Add a glossary note defining:
-   Thalean Relational Theory,
+   Thalean Action Theory,
    Thalean Graph Theory,
    thalion,
    existential relativity,
@@ -319,7 +319,7 @@ The point of TRT is not to blur these levels. The point is to place them under o
 
 ## 13. Summary
 
-Thalean Relational Theory is the umbrella for a body of work centered on relation, action, identity, and accountability.
+Thalean Action Theory is the umbrella for a body of work centered on relation, action, identity, and accountability.
 
 It begins from a simple graph-theoretic intuition:
 
